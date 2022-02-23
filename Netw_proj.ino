@@ -8,8 +8,8 @@
 #include <ESP8266WiFiMulti.h>
 
 #ifndef STASSID
-#define STASSID "Galaxy Note20"
-#define STAPSK  "Kilany47"
+#define STASSID "   "
+#define STAPSK  "   "
 #endif
 
 #define DHTPIN 4
